@@ -1,0 +1,18 @@
+[
+    {
+        "id": 38481724,
+        "nombre": "mayra",
+        "apellido": "bernal",
+        "dni": 38481724,
+        "edad": 30,
+        "fdn": "04-08-1994",
+        "direccion": "sturla 4040",
+        "email": "bernal@gmail.com",
+        "carrera": "- Prof. de inicial",
+        "alumnoregular": null,
+        "materias_aprobadas": {
+            "lengua lsa": 7,
+            "psicologia 1": 9
+        }
+    }
+]
